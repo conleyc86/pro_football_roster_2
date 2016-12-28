@@ -1,7 +1,7 @@
 Missouri Dragons,MIS
 QB,Ryan Bennett,28,2011,84,63,85,97,79,20,0.8,2
 QB,Don Reynolds,31,2008,86,86,97,97,87,55,22.1,3
-QB,Adrian Johnson,30,2008,73,65,92,87,73,63,0.6,1
+QB,Adrian Minch,30,2008,73,65,92,87,73,63,0.6,1
 RB,Rahim Tolzien,24,2014,77,57,91,89,86,65,0.6,4
 RB,Cedric Drake,25,2014,82,68,91,66,87,78,0.6,1
 RB,Trey Parker,25,2012,101,74,95,80,87,62,0.7,1
@@ -24,7 +24,7 @@ OL,Vladimir Howard,28,2010,83,73,89,92,81,68,0.5,1
 OL,Ron Romo,22,2016,105,78,85,87,91,89,5.1,4
 OL,Jim Hurst,24,2014,62,71,87,78,77,69,0.5,3
 OL,Jeremy Zuttah,30,2008,76,83,93,86,92,73,4.1,3
-OL,Chris Urschel,24,2014,72,75,95,87,77,84,0.6,4
+OL,Jason Urschel,24,2014,72,75,95,87,77,84,0.6,4
 OL,Eugene Williams,29,2009,97,87,90,89,75,90,7.5,5
 K,Steve Kerry,33,2006,64,88,85,91,87,79,3.3,5
 K,Jay Washington,26,2012,60,85,95,98,95,74,4.6,1
@@ -97,7 +97,7 @@ DL,Pat Sims,30,2008,76,76,87,89,77,78,1.2,2
 DL,Will Clarke,25,2014,82,54,87,76,78,76,0.7,4
 DL,Carlos Gonzales,27,2010,83,81,86,79,67,72,7.9,5
 DL,Michael Johnson,29,2009,82,79,88,73,64,69,5,4
-DL,Jerry Johnson,28,2010,78,87,85,99,93,82,10.7,5
+DL,Jerry Lynch,28,2010,78,87,85,99,93,82,10.7,5
 DL,Brandon Thompson,26,2012,80,62,90,91,78,72,0.8,1
 DL,Margus Heller,28,2013,87,60,85,88,80,74,0.9,4
 LB,Ty Kaliki,29,2009,82,88,89,87,75,84,5,3
@@ -117,7 +117,7 @@ RB,Desmond Rivers,22,2015,83,60,76,53,90,87,0.8,4
 RB,Isaiah Hardy III,23,2014,62,63,93,86,86,63,0.5,3
 RB,Malcolm Thomas,23,2015,73,46,91,70,83,60,0.6,4
 WR,Rannell Hall,24,2015,64,52,85,70,87,77,0.5,2
-WR,Chris Dimanche,21,2016,95,75,85,87,96,85,2.9,4
+WR,Jeremy Dimanche,21,2016,95,75,85,87,96,85,2.9,4
 WR,Rainn Cobb,30,2011,59,83,88,88,90,95,3.4,4
 WR,LJ Thomas,30,2008,71,76,76,93,81,25,4.1,3
 WR,Martin Gonzales,25,2014,62,74,87,82,92,87,0.5,3
@@ -147,12 +147,12 @@ CB,Jamar Taylor,25,2013,86,50,85,77,94,74,0.9,4
 DL,Desmond Bryant,30,2009,57,79,85,85,78,83,6.8,5
 DL,Danny Maualuga,22,2015,93,65,90,93,80,88,2.9,4
 DL,Xavier Cooper,24,2015,83,46,92,81,77,61,0.7,4
-DL,Chris Hughes,28,2012,80,75,91,85,71,85,3.2,4
+DL,Lonnie Hughes,28,2012,80,75,91,85,71,85,3.2,4
 LB,Paul Kruger,30,2009,82,87,94,85,82,87,8.1,5
 LB,Barkevious Mingo,25,2013,101,74,90,85,79,74,4.1,4
 LB,Nate Orchard,23,2015,88,65,92,64,67,70,1.1,4
 LB,Armonty Bryant,26,2013,71,54,95,76,70,60,0.6,4
-LB,Cam Johnson,26,2012,67,55,76,78,84,51,0.6,2
+LB,Cam Eich,26,2012,67,55,76,78,84,51,0.6,2
 LB,Justin Tuggle,26,2013,61,72,92,81,68,75,0.7,1
 LB,Tank Carder,27,2012,75,66,84,83,64,66,1.3,2
 LB,Jackson Toussaint,24,2014,62,44,80,68,84,66,0.5,3
@@ -170,7 +170,7 @@ RB,Rage Robertson,33,2006,79,87,88,44,85,81,2,2
 WR,Maximus Wallace,25,2013,81,75,93,79,89,83,0.7,4
 WR,Brynden Butler,26,2012,80,69,83,81,89,70,5,4
 WR,Najee Barclay,29,2009,97,74,86,71,92,74,1.3,3
-WR,Chris Palepoi,23,2015,83,48,88,76,91,65,0.7,4
+WR,Ian Palepoi,23,2015,83,48,88,76,91,65,0.7,4
 WR,Bryant Verma,24,2014,82,70,93,87,101,98,0.7,4
 WR,Colton Kubiak,27,2010,68,96,94,109,100,106,8.4,5
 OL,James Hubbard,25,2013,62,61,91,77,73,81,0.6,1
@@ -261,7 +261,7 @@ DL,Orlando Reaves,28,2011,61,68,88,86,75,66,1.7,1
 DL,Jayron Harkey,27,2010,83,80,91,66,71,68,9,5
 DL,Lavar Davison,26,2013,77,65,95,72,79,70,0.6,2
 DL,Redd McCormick,26,2012,87,65,92,82,76,75,0.6,3
-DL,Chris Magee,33,2006,69,95,82,90,92,91,7.4,3
+DL,Teddy Magee,33,2006,69,95,82,90,92,91,7.4,3
 DL,Nigel Amendola,31,2006,85,81,93,72,58,75,3,4
 DL,Cecil Reyes,26,2011,99,82,94,104,92,94,16.1,6
 DL,Larry Wilmore,22,2016,95,65,85,90,88,85,2.6,4
@@ -278,7 +278,7 @@ QB,Zach Young,26,2013,69,55,90,85,73,30,0.5,1
 QB,Logan Pollack,23,2014,83,52,88,94,72,69,0.6,2
 QB,Matt Moore,31,2007,56,76,90,82,73,20,1.8,2
 QB,Rex Hillman,27,2012,100,78,94,91,87,67,19.3,4
-RB,Tobin Johnson,28,2011,85,55,85,60,85,80,0.8,1
+RB,Tobin Coppa,28,2011,85,55,85,60,85,80,0.8,1
 RB,Isaiah Pead,26,2012,87,65,84,46,91,75,0.7,1
 RB,Abdullah Stone,24,2014,62,52,89,67,90,83,0.5,3
 RB,Brian Germain,23,2015,78,52,74,69,87,81,0.6,4
@@ -355,7 +355,7 @@ WR,Keyshawn Marino,26,2012,80,70,88,78,90,87,1.5,2
 WR,Nathaniel Marsden,32,2005,53,87,94,86,84,80,1.1,1
 WR,James Hawkins,29,2008,82,81,89,85,78,35,5.1,4
 WR,Clay Harrison,28,2010,73,71,89,75,83,71,1.5,2
-WR,Chris Jones,22,2015,64,49,95,74,86,67,0.5,2
+WR,Johnathan Jones,22,2015,64,49,95,74,86,67,0.5,2
 OL,Carlos Seymour,31,2009,82,88,78,92,84,93,4.2,4
 OL,Cameron Ellington,23,2014,77,65,93,85,83,73,0.6,1
 OL,Adam Collins,26,2013,102,64,79,88,78,81,3.6,4
@@ -383,7 +383,7 @@ DL,Gregory Iupati,29,2009,82,83,94,93,81,93,1.8,1
 DL,Jonas Kuhn,30,2012,65,71,92,86,73,76,1.2,1
 DL,Andre Jacobs,23,2014,63,58,92,78,76,76,0.6,2
 DL,Kadeem Sua-Filo,27,2011,65,68,88,90,65,77,0.8,1
-DL,Chris Conley,31,2008,97,83,86,89,84,78,2.4,1
+DL,Damone Conley,31,2008,97,83,86,89,84,78,2.4,1
 DL,Bobby Dez,32,2006,69,91,92,76,88,73,3.5,2
 DL,Trey Flowers,22,2015,83,55,94,87,83,84,0.7,4
 DL,Jabaal Saffold,27,2011,84,76,89,77,68,83,5.5,2
@@ -473,7 +473,7 @@ WR,Kenny Hundley,24,2015,75,49,92,74,88,77,0.6,4
 WR,Hakeem Tubbs,22,2015,88,45,87,86,91,59,0.8,4
 WR,JaCorey Mallard,24,2013,86,83,94,103,85,65,1.9,4
 WR,Leo Glowinski,25,2013,64,56,87,74,91,77,0.5,2
-OL,Chris Fasano,30,2008,58,78,88,87,78,89,3,2
+OL,Luke Fasano,30,2008,58,78,88,87,78,89,3,2
 OL,Andrew Clark,27,2012,63,65,96,81,75,79,0.6,2
 OL,Allen Matthews,26,2012,85,72,85,83,83,74,7,4
 OL,Tyrann Berg,29,2012,80,71,90,84,78,73,2.9,2
@@ -481,7 +481,7 @@ OL,Duane Branson,30,2008,81,91,93,91,87,93,8.9,6
 OL,Tuaau Malik,25,2014,87,57,94,85,78,79,1.4,4
 OL,Drew Cooper,28,2011,70,77,85,86,96,79,5.3,5
 OL,Dalton Darryl,26,2013,63,67,96,89,78,72,0.6,2
-OL,Chris Adams,26,2012,63,69,94,75,72,82,0.5,1
+OL,Terrance Adams,26,2012,63,69,94,75,72,82,0.5,1
 OL,Slade Queen,24,2015,65,57,91,82,78,74,0.5,3
 OL,Kareem Salazar,24,2014,64,47,92,84,82,72,0.5,2
 OL,Jeremy Michaels,25,2013,77,71,95,78,84,77,0.6,4
@@ -542,7 +542,7 @@ OL,Jeremy VanDyke,25,2014,69,54,92,75,83,69,0.5,1
 OL,Jack Matterhorn,24,2014,87,73,93,89,87,78,0.9,4
 K,Mitch Lawrence,43,2096,44,93,90,88,91,60,3,2
 K,John Collinsworth,29,2009,67,88,95,97,92,68,2.9,5
-S,Chris Madden,35,2004,52,83,90,88,85,64,2.4,2
+S,Kyle Madden,35,2004,52,83,90,88,85,64,2.4,2
 S,Clayton Gardner,24,2015,83,47,91,69,90,87,0.7,4
 S,Winston Guy,26,2012,71,65,88,72,88,83,0.7,2
 S,Dee Reid,24,2014,88,65,92,75,93,79,0.6,2
@@ -568,7 +568,7 @@ LB,Jose Herrera,24,2015,74,53,92,79,74,72,0.5,2
 LB,Silas Malliciah,26,2013,86,73,89,82,84,75,0.8,4
 LB,Victor Hauschka,33,2005,68,88,89,77,72,89,4.3,1
 END_PLAYERS
-Jacksonville Ogres,JAX
+Jacksonville Admirals,JAX
 QB,Najee Hadley,24,2014,102,67,96,91,74,65,5.2,4
 QB,Rahim Reilly,30,2008,81,73,90,89,70,20,4,2
 RB,JB Kelemete,27,2012,61,53,92,66,88,76,0.6,2
@@ -653,7 +653,7 @@ OL,Brian Schwenke,25,2013,81,74,92,91,80,74,0.7,4
 OL,Chance Peters,24,2013,91,78,98,92,93,77,3,4
 OL,Lamar Pettigrew,23,2015,64,55,90,78,73,81,0.5,2
 OL,Jamon Gonzales,30,2009,65,71,90,87,78,73,0.7,2
-OL,Chris Barrington,24,2015,63,55,95,84,80,70,0.5,3
+OL,Lonnie Barrington,24,2015,63,55,95,84,80,70,0.5,3
 OL,Andy Hillman,24,2015,73,60,92,86,73,79,0.6,4
 OL,Jeremiah Hitchens,21,2015,88,56,92,86,82,73,0.8,4
 OL,Fabian Conklin,21,2016,105,70,85,91,91,84,4,4
@@ -716,7 +716,7 @@ OL,Wade Decker,27,2012,62,65,87,87,77,79,0.6,1
 K,Mark Schofield,24,2013,62,72,95,107,88,85,0.5,2
 K,Larry Davis,31,2009,57,78,92,87,89,66,3.9,3
 S,Ralph Tyeler,26,2011,60,74,93,74,91,51,0.7,1
-S,Chris Shepard,27,2010,58,80,89,81,87,90,2.1,2
+S,John Shepard,27,2010,58,80,89,81,87,90,2.1,2
 S,Rhett Keo,28,2011,75,67,90,74,88,89,0.8,1
 S,Theo Janikowski,29,2010,83,81,90,89,90,91,5.6,4
 S,Barry Okung,27,2012,65,64,88,78,90,61,0.6,2
@@ -760,9 +760,9 @@ WR,Barry Mangold,23,2014,62,69,91,80,91,85,0.5,3
 WR,Caelan Walker,23,2015,83,56,90,79,94,64,0.8,4
 WR,Craig Sumpter,24,2015,69,46,93,82,88,75,0.5,1
 WR,Avery McDonald,33,2006,65,84,92,84,79,54,1,1
-OL,Eric Mcfadden,25,2013,101,75,91,85,85,80,5.5,4
+OL,Eric McFadden,25,2013,101,75,91,85,85,80,5.5,4
 OL,Mitch Morse,24,2015,88,62,87,92,72,78,1.2,4
-OL,Laurent Hoomanawanui,25,2014,72,48,93,92,77,74,0.6,4
+OL,Laurent Williams,25,2014,72,48,93,92,77,74,0.6,4
 OL,Reid Dimanche,25,2013,69,59,90,90,80,70,0.6,1
 OL,Jay Schwartz,27,2012,85,78,84,85,72,89,6.6,5
 OL,Zach Fletcher,24,2014,72,68,92,85,82,78,0.6,4
@@ -774,7 +774,7 @@ S,Danny Kelemete,26,2014,62,45,93,65,89,66,0.5,2
 S,Gregory Warmack,27,2010,98,75,65,75,89,84,10.8,1
 S,Sam Pugh,28,2010,65,74,92,72,91,77,0.8,1
 S,Jason Rivera,28,2011,59,76,88,82,91,72,5,5
-CB,Dontari Major III,27,2012,80,60,81,85,88,64,0.8,1
+CB,Dontari Major,27,2012,80,60,81,85,88,64,0.8,1
 CB,Levon Koa,25,2013,63,53,91,73,90,68,0.5,1
 CB,Ferdinand Gates,23,2015,83,52,94,82,90,60,0.7,4
 CB,Will Jones,23,2015,93,53,94,86,89,60,2.4,4
@@ -830,7 +830,7 @@ S,Terrance Hackett,22,2015,64,39,93,66,89,62,0.5,1
 S,Brynden Tully,26,2013,61,48,92,71,83,83,0.8,1
 S,Wesley Ricard,39,1997,65,94,85,99,88,55,3.2,1
 S,Gordon Fassett,26,2014,63,48,93,73,89,80,0.6,2
-CB,Chris Moreno,26,2012,61,51,92,71,90,35,2.6,1
+CB,Jon Moreno,26,2012,61,51,92,71,90,35,2.6,1
 CB,Eduardo Rickles,24,2015,68,46,90,73,91,61,0.6,4
 CB,Michael Fortes,24,2013,86,68,91,77,92,63,1,4
 CB,Vernon McHaney,28,2009,82,88,96,105,90,71,9.5,4
@@ -843,7 +843,7 @@ DL,Percy Dalke,29,2010,83,87,94,96,82,95,6.3,4
 DL,Arlen Class Jr,22,2015,88,48,83,88,79,87,1.5,4
 DL,Fritz Resnick,23,2013,82,65,90,65,89,64,0.7,1
 LB,Colton Underwood,24,2014,64,64,88,78,82,63,0.5,1
-LB,Chris Lotulelei,24,2013,61,62,87,83,65,64,0.6,2
+LB,Kai Lotulelei,24,2013,61,62,87,83,65,64,0.6,2
 LB,John Ball,23,2015,78,46,67,79,71,48,0.6,4
 LB,Donte Bask,23,2015,78,57,85,79,64,69,0.6,4
 LB,Nolan Bryce,26,2011,64,77,88,77,61,75,3.5,2
@@ -871,7 +871,7 @@ WR,Sol Guard,36,2003,51,95,77,101,78,69,5.5,2
 WR,Chauncey Sparks,24,2013,81,78,88,103,85,64,11.3,4
 WR,Jake Kitchen,25,2014,63,62,91,81,91,66,0.5,1
 OL,Matthew Gorman,26,2012,61,73,90,89,81,73,0.9,2
-OL,Chris Haviley,25,2014,82,68,87,90,86,75,0.7,4
+OL,Lonnie Haviley,25,2014,82,68,87,90,86,75,0.7,4
 OL,Terry Saunders Sr,25,2013,91,76,92,91,89,72,2.9,4
 OL,Florence Lennox,27,2011,62,73,92,84,81,72,0.6,1
 OL,Jason Czajkowski,29,2010,65,80,89,78,72,82,0.7,1
@@ -915,7 +915,7 @@ LB,Marvin Garnes,24,2015,78,47,92,70,84,62,0.6,4
 END_PLAYERS
 Chicago Warriors,CHI
 QB,Matt Lockett,25,2014,86,81,94,83,87,42,0.6,2
-QB,Chris Mergener,30,2009,67,73,86,81,84,40,2,1
+QB,Kyle Mergener,30,2009,67,73,86,81,84,40,2,1
 QB,Casey Atwater,33,2006,62,70,78,98,76,25,14.1,7
 RB,Elijah June,23,2014,82,65,90,84,82,72,0.7,4
 RB,Ryan Federer,24,2015,83,49,88,81,92,57,0.7,4
@@ -939,7 +939,7 @@ OL,Robert Mathis,26,2012,80,75,90,83,83,80,6,3
 OL,Nate Chandler,27,2012,61,71,88,83,83,72,0.5,1
 OL,Nick Becton,26,2013,62,57,90,76,73,76,0.7,1
 K,Jerry OConnell,25,2014,72,72,85,91,87,87,0.6,4
-K,Vick Mackenzy Gould,34,2005,53,91,90,104,96,54,3.8,4
+K,Vick Mackenzy,34,2005,53,91,90,104,96,54,3.8,4
 S,Garrod Orlando,31,2008,65,80,91,74,86,85,1.5,2
 S,Xavier Joyner,33,2005,65,87,89,81,88,60,3.8,3
 S,Omar Rolds,27,2012,80,61,74,74,87,51,0.8,1
@@ -950,11 +950,11 @@ CB,Jeremy Jones,24,2015,63,41,88,70,94,41,0.5,2
 CB,Travis Conley,25,2013,62,64,92,79,91,35,0.6,2
 CB,Han Solder,29,2008,81,79,76,71,92,40,4,3
 CB,Francis Kaepernick,24,2014,92,75,88,86,92,73,2.4,4
-CB,Manuel Seferian-Jenkins,28,2010,73,65,76,79,89,67,1.4,2
+CB,Manuel Hynson,28,2010,73,65,76,79,89,67,1.4,2
 DL,Dwayne Johnson,25,2012,66,55,90,81,81,66,0.7,2
 DL,Gavin Ellis,22,2015,88,60,85,81,77,85,1.4,4
 DL,Upshaw Mack,29,2010,59,73,88,84,79,75,1.1,2
-DL,Francisco Ekpre-Olomu,24,2014,87,67,89,83,76,84,1,4
+DL,Cisco Olomu,24,2014,87,67,89,83,76,84,1,4
 DL,Sam Waddle,24,2014,82,65,87,82,81,80,0.7,4
 DL,Hakeem Ajayi,26,2012,80,76,93,82,86,83,5,2
 LB,Fozzy Jelani,30,2008,89,92,97,95,82,80,4,3
@@ -968,7 +968,7 @@ LB,Ladarius Forte,23,2016,105,65,85,80,85,80,3.9,4
 LB,Walter Campbell,26,2013,71,60,87,91,86,77,0.6,4
 LB,JR Carey,25,2014,62,69,94,76,57,60,0.5,3
 END_PLAYERS
-Detroit Transformers,DET
+Detroit Cyborgs,DET
 QB,Tanner Olsen,28,2009,97,76,84,99,85,39,17.7,3
 QB,Neal Sanderson,32,2005,69,70,91,79,72,20,1.1,1
 RB,Steven Flett,25,2013,62,54,90,86,87,66,0.6,1
@@ -1052,7 +1052,7 @@ OL,David Seaman,24,2013,81,82,89,84,73,92,0.7,4
 OL,Lane Masuda,26,2013,61,61,90,89,75,73,2.1,2
 OL,Josh Wedge,30,2008,71,92,84,92,88,96,6.8,5
 OL,Bryan Gibbs,27,2010,88,80,77,87,83,94,6.8,5
-OL,Chris Boutte,28,2009,77,89,92,86,91,90,5.2,4
+OL,Vincent Boutte,28,2009,77,89,92,86,91,90,5.2,4
 OL,Colin Gully,25,2013,81,65,85,89,79,79,0.6,4
 OL,Corey Duran,25,2014,77,75,91,95,89,87,0.6,4
 OL,Don Lamanna,27,2012,60,75,89,82,77,79,0.7,1
@@ -1081,7 +1081,7 @@ LB,Scottie Suh,36,2002,90,94,90,80,78,85,8.7,3
 LB,Matt Ryan,30,2009,82,90,88,100,95,98,13.2,5
 LB,Pat Nichols,26,2012,85,76,97,81,83,73,5.1,1
 END_PLAYERS
-Minnesota Pagans,MIN
+Minnesota Samurai,MIN
 QB,Randal Crabtree,23,2014,87,77,89,87,83,70,1.7,4
 QB,Evan Atwell,36,2002,50,79,80,77,73,20,3.3,2
 QB,Dillon Culver,23,2015,63,48,89,79,77,65,0.5,3
@@ -1101,10 +1101,10 @@ OL,Andre Garrick,29,2009,97,77,88,95,85,88,3.5,1
 OL,Brandon Johnson,27,2011,74,75,84,89,80,85,4.9,5
 OL,Alex Benedict,29,2009,58,86,90,90,87,84,6.7,4
 OL,Matt Aslinger,26,2012,100,84,92,89,82,73,4.9,4
-OL,Chris Olmstead,30,2008,66,93,94,87,90,78,5.6,3
+OL,Erik Olmstead,30,2008,66,93,94,87,90,78,5.6,3
 OL,Austin Whittlesey,24,2015,68,60,92,73,77,71,0.6,4
 OL,Joe Dimarco,34,2005,63,77,90,85,84,79,1.1,2
-K,Chris Amick,26,2013,76,68,97,87,86,72,0.6,4
+K,John Amick,26,2013,76,68,97,87,86,72,0.6,4
 K,Sean Trail,26,2012,70,78,95,104,94,70,3.3,4
 S,Luther Lewin,31,2007,85,81,94,74,90,74,2.5,1
 S,Myles Presswood,28,2010,59,72,90,78,88,81,4,4
@@ -1156,7 +1156,7 @@ WR,Rudolf Boyden,25,2015,84,52,91,79,83,62,0.5,3
 WR,Gerrod Johnson,26,2013,62,50,89,72,87,65,0.7,3
 WR,Colton McCoy,26,2013,71,70,88,77,92,63,0.6,4
 WR,Javier Perry,25,2014,77,65,90,82,87,59,0.6,4
-WR,Sean Witherspoon Bryant,27,2010,88,90,88,108,94,92,14,5
+WR,Chris Witherspoon,27,2010,88,90,88,108,94,92,14,5
 OL,Jamison Taylor,25,2011,99,84,87,88,96,94,12.2,8
 OL,Jared Lei,26,2013,69,64,74,84,80,72,0.5,2
 OL,Doug Kiffin,32,2007,75,86,93,82,92,81,5,3
@@ -1198,7 +1198,7 @@ LB,Sam Garfunkel,27,2012,80,74,88,84,66,73,1.6,2
 LB,Abraham Malcolm,27,2011,65,77,85,82,79,76,1.8,2
 LB,Peyton Lin,29,2010,83,87,73,92,93,95,7,6
 END_PLAYERS
-New York Bucks,NY
+New York Mammoth,NY
 QB,Lincoln Colquitt,26,2013,67,45,85,84,71,64,0.6,2
 QB,Trevor Matthews,26,2013,82,52,95,88,85,37,0.7,4
 QB,TJ Verona,35,2004,92,90,98,89,87,30,21,4
@@ -1212,7 +1212,7 @@ RB,Jamal Stamp,28,2012,59,72,93,59,87,83,0.8,1
 WR,Cory Rambert,27,2012,62,74,92,82,73,49,1.7,1
 WR,Taylor Maloney,26,2013,62,57,91,76,90,85,0.6,1
 WR,Scott Mescudi,24,2015,74,43,83,84,89,64,0.6,4
-WR,Elvis Nghiem III,23,2014,92,82,94,97,92,94,2.6,4
+WR,Elgier Nghiem,23,2014,92,82,94,97,92,94,2.6,4
 WR,Keith Falconer,29,2010,59,84,85,87,88,91,8.6,5
 WR,Tony Capps,28,2011,69,77,88,83,86,88,3.5,5
 WR,Stephen Tallarico,28,2009,65,81,79,85,85,61,0.7,1
@@ -1221,7 +1221,7 @@ OL,Byron Kazmierczak,27,2011,69,69,92,82,77,79,0.8,1
 OL,Dallas Runyon,32,2009,65,71,90,88,80,69,0.7,1
 OL,Justin Harris,25,2013,91,74,90,83,78,83,2.1,4
 OL,Weston Leyba,24,2014,87,72,92,85,75,82,1.2,4
-OL,Chris Watson,30,2010,84,77,79,90,79,77,1.7,2
+OL,Lonnie Watson,30,2010,84,77,79,90,79,77,1.7,2
 OL,Terry Meadows,22,2015,103,57,85,95,86,82,3.6,4
 OL,Adam Mendieta,27,2012,78,57,77,78,81,73,0.7,1
 OL,Dillon Brunch,25,2014,62,58,92,84,80,73,0.5,1
@@ -1265,7 +1265,7 @@ LB,Owamagbe Akintola,28,2011,84,74,95,82,66,71,0.8,1
 LB,Arden Varga,29,2009,57,75,77,76,53,79,2.7,3
 LB,Keenan Odighizuwa,26,2012,79,76,85,87,64,74,2.6,1
 END_PLAYERS
-Philadelphia Hawks,PHI
+Philadelphia Orcs,PHI
 QB,Kevin Tien,28,2010,98,76,71,87,75,29,17.5,2
 QB,Connor Shilling,29,2009,57,70,90,82,71,50,7,3
 QB,Guy Willis,23,2016,105,75,85,93,89,83,6.7,4
@@ -1295,7 +1295,7 @@ OL,Grady Peters,34,2004,52,87,76,98,96,97,10.3,4
 K,Larry Wahlberg,35,2004,62,80,87,85,91,75,1.8,3
 K,Joe McDonald,26,2013,76,74,85,93,84,75,0.6,2
 K,Lawrence Fuller,24,2014,62,69,92,94,91,71,0.5,3
-S,Chris Funchess,29,2010,58,75,90,69,90,81,1.4,3
+S,Christian Funchess,29,2010,58,75,90,69,90,81,1.4,3
 S,Ed Cornish,25,2012,60,74,92,83,90,75,7,5
 S,Terrance Hogg,28,2009,87,83,96,87,92,76,8.8,4
 S,Tobias Klenke,24,2014,78,49,85,76,90,79,0.5,2
@@ -1375,7 +1375,7 @@ LB,Teddy Obenmeier,25,2014,87,72,90,88,84,74,1.1,4
 LB,Florence Knighton,25,2013,61,62,92,78,64,65,0.8,1
 LB,Demetrius Crosby,27,2011,79,80,87,84,72,81,1.3,2
 END_PLAYERS
-Atlanta Aliens,ATL
+Atlanta Martians,ATL
 QB,Preston Marshall,27,2012,61,45,85,86,72,25,0.6,2
 QB,Sean Rollins,26,2013,66,57,85,84,83,20,0.6,4
 QB,Lincoln Hall,31,2008,96,88,95,89,88,20,20.8,5
@@ -1452,7 +1452,7 @@ OL,Randolph Chapman,30,2009,87,81,97,95,75,78,3.5,2
 OL,Johnny Hoffman,24,2014,62,72,92,81,88,84,0.5,3
 OL,Tyler Larsen,24,2014,64,58,96,93,75,77,0.5,2
 OL,Seth Haynes,30,2009,65,69,88,84,80,73,0.7,1
-OL,Chris Ballard,28,2010,75,72,74,92,75,77,0.8,1
+OL,Mike Ballard,28,2010,75,72,74,92,75,77,0.8,1
 OL,Dante Jackson,23,2015,64,63,85,80,78,72,0.5,1
 OL,Marlon DiMarco,23,2015,83,56,89,87,85,73,0.7,4
 OL,Jan Benson,23,2014,82,73,92,88,83,88,0.7,4
@@ -1549,7 +1549,7 @@ LB,Larry Castillo,23,2015,88,60,78,72,87,55,1.3,4
 LB,Cliff Hall,26,2014,62,64,91,71,80,65,0.5,3
 LB,Jackie Hopkins,30,2009,57,82,85,74,67,82,2.5,2
 END_PLAYERS
-Tampa Bay Shellbacks,TB
+Tampa Bay Aztecs,TB
 QB,Will Parks,22,2015,103,69,97,95,75,65,6.3,4
 QB,Allan Fisher,26,2013,86,69,96,93,73,20,0.8,4
 RB,Brock Kuilima,25,2013,71,65,85,76,87,64,0.6,2
@@ -1558,7 +1558,7 @@ RB,Stevie Beck,23,2014,73,62,93,83,85,53,0.6,2
 RB,Cody Allen,25,2014,87,65,84,64,89,77,0.8,4
 WR,Julio Bennett,24,2014,64,50,90,77,89,79,0.5,1
 WR,Deontae LaVell,22,2014,102,74,96,102,87,74,3.7,4
-WR,Courtney Richardon III,29,2009,65,78,78,77,91,87,1.6,3
+WR,Courtney Richardon,29,2009,65,78,78,77,91,87,1.6,3
 WR,Derek Winton,24,2015,78,58,86,76,93,73,0.6,4
 WR,Trey Seferian,23,2014,87,48,83,80,86,58,1.3,4
 WR,Jorge Pastrada,27,2011,79,72,83,66,80,44,1.6,3
@@ -1608,7 +1608,7 @@ LB,Aubrey Simon,25,2014,63,54,90,79,64,56,0.6,2
 LB,Luis Garner,28,2012,63,55,83,79,77,65,0.5,2
 LB,Kunta McGuire,26,2012,85,88,97,107,95,105,10.1,5
 END_PLAYERS
-Arizona Brigands,ARZ
+Arizona Outlaws,ARZ
 QB,Keith Maitland,25,2013,84,76,89,87,75,41,0.7,4
 QB,Andy Richter,32,2007,80,69,86,89,72,30,3.3,2
 QB,Chris Falco,36,2003,91,86,74,88,83,20,16.5,3
@@ -1717,7 +1717,7 @@ LB,Vernon Manning,24,2013,86,74,87,90,66,75,1.8,4
 LB,Will Bowman,24,2015,73,62,83,83,47,75,0.6,4
 LB,Leonard Ailes,26,2011,84,74,95,81,84,75,3,2
 END_PLAYERS
-Seattle Lonos,SEA
+Seattle Typhoon,SEA
 QB,Reggie Lattimer,27,2012,80,84,94,90,88,97,21.9,4
 QB,Teddy Benedict,33,2006,80,67,81,93,70,62,1.5,1
 RB,Luther Magistrate,25,2012,55,72,87,82,87,61,0.5,3
@@ -1774,7 +1774,7 @@ LB,Ricky Fortt,25,2012,85,86,94,97,86,90,10.8,4
 LB,PJ Dorsey,24,2014,77,62,85,80,72,54,0.7,4
 LB,Frank Masey,25,2014,62,67,93,79,62,71,0.5,3
 END_PLAYERS
-San Francisco Pickaxes,SF
+San Francisco Battleaxes,SF
 QB,Jamaal Shilling,28,2011,84,75,95,95,78,80,19,6
 QB,Marcus Smith,28,2010,61,65,92,88,70,57,0.8,1
 QB,Jimmy Luwen,26,2011,89,65,90,88,72,47,2,2
@@ -1806,11 +1806,11 @@ S,Corey Twain,31,2006,64,91,96,85,88,80,5.3,4
 S,Otis Parker,24,2014,87,59,95,71,90,77,1.8,4
 S,Jake Frazzetto,24,2015,88,45,92,66,90,84,1.3,4
 CB,Seth McGill,24,2014,78,38,76,74,88,45,0.6,4
-CB,Chris Lawrence,25,2014,62,60,93,76,87,78,0.6,2
+CB,John Lawrence,25,2014,62,60,93,76,87,78,0.6,2
 CB,Seth Ennis,27,2010,58,76,93,79,90,52,3.5,4
 CB,Cody Orvell,24,2014,72,47,91,79,89,42,0.6,4
 CB,Terri Jackson,24,2014,77,60,92,84,92,60,0.7,4
-CB,DeMarcus Johnson,25,2013,62,49,90,79,89,55,0.6,2
+CB,DeMarcus Riche,25,2013,62,49,90,79,89,55,0.6,2
 DL,TraVaughn Unrein,22,2016,105,65,85,91,86,81,4.5,4
 DL,Major Watson,22,2015,93,48,87,85,81,91,2.5,4
 DL,Jerod Tate,26,2012,62,75,91,83,79,82,1,1
