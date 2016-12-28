@@ -12,7 +12,7 @@ WR,Caelan Walker,24,2015,73,57,81,73,91,87,0.5,1
 WR,Joseph Clay Jr,37,2001,74,96,88,90,83,87,3.5,3
 WR,Michael Westbrook,25,2014,72,65,87,81,90,82,0.6,4
 WR,Derrick Weller,23,2015,73,47,91,76,90,53,0.6,4
-WR,DAnte Tyson,22,2015,88,53,89,77,97,82,2.2,4
+WR,Dante Tyson,22,2015,88,53,89,77,97,82,2.2,4
 WR,Chip Williamson,30,2010,78,81,68,88,80,54,6.4,5
 WR,Dennis Lattimer,22,2015,88,51,87,83,80,68,1,4
 WR,Tyreek Palmer,35,2004,77,82,85,72,79,60,3.5,2
@@ -396,7 +396,7 @@ LB,Jace Rose,26,2012,90,77,91,88,69,75,3,3
 LB,Scott Savage,26,2012,85,84,90,95,88,87,1.9,4
 LB,Josh Gordon,28,2009,57,71,87,78,52,73,1,1
 END_PLAYERS
-New Jersey Privateers,NJP
+New Jersey Privateers,NJ
 QB,Larry Johnson,25,2013,86,66,95,91,77,72,1.3,4
 QB,Conor Larsen,25,2015,83,48,79,91,72,58,0.7,4
 RB,Tank James-Michael,25,2013,77,75,92,84,86,57,0.6,4
@@ -852,7 +852,7 @@ LB,Arnie Dargan,27,2012,77,57,75,73,57,41,0.6,1
 LB,Xavier Summers,26,2012,90,75,94,89,91,75,9.3,4
 LB,Harris Johnson,26,2011,99,76,88,88,95,78,5.8,2
 END_PLAYERS
-Las Vegas Vipers,SD
+Las Vegas Vipers,LV
 QB,Cordero Greenspan,34,2004,92,89,98,87,90,20,20.8,4
 QB,Mark Madeiros,33,2006,80,70,85,83,73,20,1.1,1
 QB,Jackie Shavers,24,2014,72,62,82,95,76,39,0.6,4
@@ -1261,7 +1261,7 @@ LB,Marc Manske,28,2011,60,77,80,90,55,85,1.3,2
 LB,Devon Reardon,24,2014,78,74,80,83,88,74,0.6,4
 LB,Karl Kasper,30,2009,72,80,83,91,74,78,1.8,1
 LB,Daemon Ogden,27,2011,70,74,81,77,57,76,3.3,3
-LB,Owamagbe Sheldon,28,2011,84,74,95,82,66,71,0.8,1
+LB,Owamagbe Akintola,28,2011,84,74,95,82,66,71,0.8,1
 LB,Arden Varga,29,2009,57,75,77,76,53,79,2.7,3
 LB,Keenan Odighizuwa,26,2012,79,76,85,87,64,74,2.6,1
 END_PLAYERS
@@ -1318,7 +1318,7 @@ LB,Tim Scheidt,26,2012,80,77,96,87,77,76,3.5,2
 LB,Alonzo Foreman,25,2012,85,86,87,90,85,85,7.3,4
 LB,Rod Burrows,24,2014,87,61,89,84,86,62,1.9,4
 LB,Ben Stenson,29,2009,82,86,94,79,95,87,6,6
-LB,Michael Level,24,2015,83,60,74,81,64,58,0.7,4
+LB,Mike Level,24,2015,83,60,74,81,64,58,0.7,4
 LB,Harrison Sharper,29,2011,59,75,88,78,79,70,1,2
 LB,Wes Cornell,27,2012,75,66,88,74,70,61,0.8,1
 END_PLAYERS
@@ -1424,7 +1424,7 @@ DL,Nicolas Swanson,27,2012,60,68,90,76,83,73,4.5,4
 LB,Terry Robinson,26,2012,85,77,98,88,86,76,1.3,1
 LB,Roman Newman,25,2014,67,39,94,72,63,69,0.6,2
 LB,Nick Cain,25,2013,61,67,88,78,70,66,0.7,1
-LB,Herbert Mclaughlin,28,2010,89,81,85,76,87,77,1.5,1
+LB,Henry Maikai,28,2010,89,81,85,76,87,77,1.5,1
 LB,Lyle Bowman,29,2011,84,80,93,86,85,80,4.4,5
 LB,Derrick Newton,26,2013,61,81,91,88,69,80,2.6,1
 LB,Elton Gardner,31,2008,76,85,92,82,82,80,1,1
@@ -1552,7 +1552,7 @@ END_PLAYERS
 Tampa Bay Shellbacks,TB
 QB,Will Parks,22,2015,103,69,97,95,75,65,6.3,4
 QB,Allan Fisher,26,2013,86,69,96,93,73,20,0.8,4
-RB,Winston Fox,25,2013,71,65,85,76,87,64,0.6,2
+RB,Brock Kuilima,25,2013,71,65,85,76,87,64,0.6,2
 RB,Terrell Thomas,27,2012,85,75,88,67,88,74,7.2,5
 RB,Stevie Beck,23,2014,73,62,93,83,85,53,0.6,2
 RB,Cody Allen,25,2014,87,65,84,64,89,77,0.8,4
@@ -1752,7 +1752,7 @@ CB,Walker Dye,31,2005,58,87,88,92,80,73,0.8,1
 CB,Jermaine Kravitz,25,2012,75,75,90,85,88,72,5.8,4
 CB,Golden Peterson,24,2014,72,52,92,67,54,66,0.5,1
 CB,Stevie Hicks,26,2014,87,46,93,83,91,61,0.5,1
-CB,LaMarcus Montgomery,25,2013,61,67,93,85,94,55,0.6,1
+CB,LaMarcus Johnson,25,2013,61,67,93,85,94,55,0.6,1
 CB,Tyle Rooney,23,2015,78,43,94,78,89,60,0.6,4
 CB,DMarcus Forsett,28,2011,74,97,96,109,89,65,14,4
 CB,Terrell Davis,25,2013,61,50,90,77,91,70,0.6,1
@@ -1761,7 +1761,7 @@ DL,Tim Marshall,27,2011,59,78,90,88,80,90,1.1,1
 DL,Kevan Reeder,30,2009,84,87,87,101,94,87,7.1,2
 DL,Tyrone Braxton,25,2013,81,68,93,84,76,74,0.7,4
 DL,Cassius Reedus,23,2014,82,53,92,66,80,69,0.7,4
-DL,Samwell Clark,23,2015,88,39,86,73,84,77,0.9,4
+DL,Sin Keoloha,23,2015,88,39,86,73,84,77,0.9,4
 DL,Lefty Sans,25,2013,61,57,87,67,62,65,0.6,2
 DL,Giovanni Bernal,30,2008,76,87,93,73,76,64,7.1,4
 DL,Deshawn McMaster,28,2011,65,73,91,84,78,74,0.8,1
@@ -1800,7 +1800,7 @@ OL,Darik Pederson,22,2016,90,65,85,85,91,80,2.3,4
 OL,Dustin Oliver,29,2010,83,81,93,83,74,89,3.3,3
 K,Zane Horace,41,2098,48,93,85,92,89,60,3.1,1
 K,Ben Pollacks,22,2015,78,55,92,91,78,74,0.6,4
-S,Marquees Williams,24,2013,91,67,90,82,94,93,2.1,4
+S,Marquees Checkers,24,2013,91,67,90,82,94,93,2.1,4
 S,LeVaughn Orient,25,2014,62,40,88,69,92,75,0.5,3
 S,Corey Twain,31,2006,64,91,96,85,88,80,5.3,4
 S,Otis Parker,24,2014,87,59,95,71,90,77,1.8,4
@@ -1815,7 +1815,7 @@ DL,TraVaughn Unrein,22,2016,105,65,85,91,86,81,4.5,4
 DL,Major Watson,22,2015,93,48,87,85,81,91,2.5,4
 DL,Jerod Tate,26,2012,62,75,91,83,79,82,1,1
 DL,Greg Olson,30,2008,96,77,88,86,64,75,4.4,2
-DL,Cory Schneider,27,2014,68,52,72,94,78,84,0.6,2
+DL,Cory Kalawaia,27,2014,68,52,72,94,78,84,0.6,2
 DL,Nelson Steele,25,2013,76,70,85,87,79,86,4.2,3
 DL,Adam Hurst,26,2011,59,76,83,93,78,87,3,1
 LB,Akeem Lowry,32,2006,74,83,87,87,78,78,6.7,6
